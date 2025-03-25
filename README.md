@@ -19,4 +19,5 @@
 1. Get a hold of the hardware mentioned above.
 2. Build your project following my (poorly made) schematic.
 3. Connect your arduino to your pc.
-4. Clone this repo, open the schematic I have provided and run it.
+4. Clone this repo and add the libraries I have provided into your Arduino IDE.
+5. Open the schematic and run it.
